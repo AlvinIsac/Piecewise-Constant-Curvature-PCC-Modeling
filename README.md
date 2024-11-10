@@ -1,7 +1,3 @@
-Here's the content formatted properly with bold titles and sections for direct copying and pasting into a `README.md` file:
-
----
-
 # **Piecewise Constant Curvature (PCC) Modeling**
 
 This repository contains the exercises and materials related to **Piecewise Constant Curvature (PCC)** modeling for soft robotics, as presented by **Dr. Alessandro Albini**. This work focuses on the modeling, transformation, and kinematic behavior of flexible robotic segments.
